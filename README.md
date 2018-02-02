@@ -1,1 +1,2 @@
-# webtech_class
+# Webtech Course
+> Code repo
